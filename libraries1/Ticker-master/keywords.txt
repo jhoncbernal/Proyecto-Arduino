@@ -1,0 +1,13 @@
+Ticker 			KEYWORD1
+setInterval				KEYWORD2
+setMode			KEYWORD2
+setCallback				KEYWORD2
+start					KEYWORD2
+resume					KEYWORD2
+pause					KEYWORD2
+stop					KEYWORD2
+update					KEYWORD2
+state				KEYWORD2
+getInterval				KEYWORD2
+getCallback		KEYWORD2
+getMode			KEYWORD2
